@@ -1,6 +1,6 @@
 <h1 align="center">I'm @mzo0z</h1>
 <h3 align="center">python programmer</h3>
-<img src="https://cdn.discordapp.com/attachments/1016244506749829122/1046172214673805363/fad3e2e04d276fb16ae40d4e8c9242f2.png" align="auto">
+<img src="https://cdn.discordapp.com/attachments/1016244506749829122/1046172214673805363/fad3e2e04d276fb16ae40d4e8c9242f2.png" width="1000px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mzo0z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mzo0z" height="30" width="40" /></a>
